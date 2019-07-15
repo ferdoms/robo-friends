@@ -1,5 +1,5 @@
 export const robots = [
-    [{
+    {
         "id": 1,
         "name": "Nonie Heel",
         "username": "nheel0",
@@ -74,5 +74,5 @@ export const robots = [
         "name": "Horacio Anlay",
         "username": "hanlaye",
         "email": "hanlaye@instagram.com"
-      }]
+      }
 ]
