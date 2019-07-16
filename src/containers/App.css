@@ -10,3 +10,6 @@ src: local('Roboto Regular'), url('Roboto-Regular.woff') format('woff');
 h1{
     font-family: 'Roboto Regular';
 }
+.overflow-hidden {
+    overflow: hidden;
+}
